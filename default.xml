@@ -452,5 +452,3 @@
   <project path="device/sony/kumquat" name="XperiaNovathor/android_device_sony_kumquat" remote="github" revision="cm-11.0" />
   <project path="hardware/semc" name="munjeni/aosp_4.3_hardware_semc" remote="github" revision="master" />
 </manifest>
-
-</manifest>
